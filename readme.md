@@ -6,4 +6,5 @@ Para este proyecto se consumieron las API´s de Mercado Libre, Paypal y Firebase
 ![vista-com](https://user-images.githubusercontent.com/32883910/38997410-f83bad98-43b2-11e8-8657-3a0a051bab18.png)
 
 
-Desarrollado para Laboratoria (http://laboratoria.la)
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
